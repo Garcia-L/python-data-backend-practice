@@ -1,0 +1,19 @@
+🟡 Proyecto 1 — CLI App (nivel junior)
+👉 Simula un sistema de tareas:
+
+Agregar tarea
+Listar tareas
+Eliminar tarea
+
+🟡 Proyecto 2 — Analizador de datos (MUY IMPORTANTE para Data Analyst)
+
+import pandas as pd
+
+Leer un CSV y:
+Mostrar promedio
+Filtrar datos
+Ordenar
+
+🟡 Proyecto 3 — API con Python (equivalente a Node)
+
+Usa: Flask o FastAPI
